@@ -1,2 +1,2 @@
-# website-portfolio
-Imagine portfolio for practice
+# website-practice
+This repository include various type websites for practice.
